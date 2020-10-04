@@ -1,0 +1,11 @@
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Luis Gustavo Victorio','00011133344',80000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 0, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Andresa Aparecida Soares','11122233355',60000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 3, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Gentil Dionisio Victorio','22211133344',80000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 1, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Solange Ap Severino Victorio','33311133344',50000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 2, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Alessandra Soares','44411133344',70000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 3, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Meg Soares','55511133344',10000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 1, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Bella Victorio','66611133344',20000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 0, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Dingo Victorio','77711133344',30000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 4, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Tonico Victorio','88811133344',50000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 0, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Diego barbosa','99911133344',50000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 3, NOW());
+INSERT INTO tb_clients (name, cpf, income, birth_date, children, created_At) VALUES ('Nicole Barbosa','01211133344',50000.00, TIMESTAMP WITH TIME ZONE '2020-07-14T10:00:00Z', 1, NOW());
